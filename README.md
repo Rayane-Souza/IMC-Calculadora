@@ -1,13 +1,15 @@
 
-# projeto ICM Calculadora
+# ICM Calculadora
 
 ## ✅Sobre o Projeto
 
 [calculadoraimc.vercel.app](https://imc-calculadora-five.vercel.app/)
 
  Uma página para calcular o Índice de Massa Corporal (IMC), oferecendo um ambiente interativo para que as pessoas insiram seu peso e altura. Ao fornecer esses dados, a página fornece o resultado do IMC imediatamente, resultando em uma avaliação simples da condição física do usuário.
+ 
 ## 🔗 Layout
-![Pagina](./img/image.png)
+
+![image](https://github.com/Rayane-Souza/IMC-Calculadora/assets/130245094/2711e00e-932c-4374-a79d-c4be4d196c0a)
 
 ## 💻 Tecnologias utilizadas
 
