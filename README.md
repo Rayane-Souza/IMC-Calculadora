@@ -1,5 +1,5 @@
 
-# ICM Calculadora
+# IMC Calculadora
 
 ## ✅Sobre o Projeto
 
